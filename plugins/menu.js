@@ -52,7 +52,7 @@ Hai, *%name!*
 *Fitur:* %totalfeatures command
 
 %readmore
-*Support me:* https://saweria.co/kahfiaja
+*Support me:* https://saweria.co/gogotsmod
 *Note:*
 _Jika Respon Tidak Muncul Kemungkinan Terjadi Error_
 `.trimStart(),
