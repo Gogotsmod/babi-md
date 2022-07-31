@@ -23,7 +23,7 @@ Hai, *%name!*
 *Fitur:* %totalfeatures command
 
 %readmore
-*Support me:* https://saweria.co/kahfiaja
+*Support me:* https://saweria.co/gogotsmod
 *Note:*
 _Jika Respon Tidak Muncul Kemungkinan Terjadi Error_
 `.trimStart(),
@@ -221,7 +221,7 @@ let ktx = ktnya.getRandom()
 	rows: [
 	    {title: `⚡ SPEED BOT`, rowId: ".ping", description: "Menampilkan kecepatan respon BOT"},
 	    {title: `💌 OWNER BOT`, rowId: ".owner", description: "Menampilkan List owner BOT"},
-	    {title: `📔 SCRIPT BOT`, rowId: ".sc", description: `Source Code`},
+	    {title: `🗿DONASI`, rowId: ".donasi", description: `Donasi for bot`},
 	]
     },{
 	title: `${htki} SUPPORT ${htka}`,
